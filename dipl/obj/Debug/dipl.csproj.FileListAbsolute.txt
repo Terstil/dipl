@@ -1,0 +1,10 @@
+C:\Users\79530\source\repos\dipl\dipl\obj\Debug\dipl.csprojAssemblyReference.cache
+C:\Users\79530\source\repos\dipl\dipl\obj\Debug\dipl.Form1.resources
+C:\Users\79530\source\repos\dipl\dipl\obj\Debug\dipl.Properties.Resources.resources
+C:\Users\79530\source\repos\dipl\dipl\obj\Debug\dipl.csproj.GenerateResource.cache
+C:\Users\79530\source\repos\dipl\dipl\bin\Debug\dipl.exe.config
+C:\Users\79530\source\repos\dipl\dipl\bin\Debug\dipl.exe
+C:\Users\79530\source\repos\dipl\dipl\bin\Debug\dipl.pdb
+C:\Users\79530\source\repos\dipl\dipl\obj\Debug\dipl.exe
+C:\Users\79530\source\repos\dipl\dipl\obj\Debug\dipl.pdb
+C:\Users\79530\source\repos\dipl\dipl\obj\Debug\dipl.Form2.resources
